@@ -1,5 +1,6 @@
 # R Programming Week - 4 
-This repo contains files for week - 4 programming assignment for R Programming course on Coursera
+
+This repo contains files for week - 4 programming assignment for R Programming course on Coursera.
 The assignment is done without using any external libraries
 
 ### Note: 
