@@ -14,7 +14,7 @@ README.md, Overview of data and experiment performed for obtaining said data, Ov
 
 CodeBook.md, Information regarding the data used including details about variables, transformation steps.
 
-run_analysis.R, r script to perform the task of collecting the data, merging datasets of training and testing, cleaning the data and creating a final dataset with summary of cleaned data.
+run_analysis.R, r script to perform the task of collecting the data, merging datasets of training and testing, cleaning the data and creating a final dataset with summary of cleaned data. (data set directory renamed to "Dataset" for working purpose, so it is reflected in r file)
 
 Tidy_Data.txt, dataset containing average, according to subject and activity, of all original features(from training and testing data) that were mean or standard deviation data, obtained as a result of R-script. 
 
