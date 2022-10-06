@@ -21,6 +21,10 @@ Activity
 - Activity performed while recording data
 - factors
 
+All values are normalised in original dataset i.e. in range [-1, 1].
+
+Acceleration values has units in g's(9.8 ms^-2) and gyroscope data has units in radians per sec.
+
 TimeBody (Accelerometer/Gyroscope) (Mean()/StandardDeviation()) - X,Y,Z
 - Average of Mean and standard deviation of filtered time body signals captured by acceleromater and gyroscope in XYZ axis
 
